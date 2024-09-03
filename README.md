@@ -1,2 +1,0 @@
-# ButtonMash
- Mash the Button
